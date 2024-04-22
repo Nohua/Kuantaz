@@ -44,7 +44,8 @@ python app.py
 ```
 
 ##### Cuarto Paso
-<p>Como ultimo se debe importar el archivo "<em>Kuantaz Flask_api.postman_collection.json</em>" en la seccion de <em>My Workspace</em> de
-la aplicacion Postman. Ya que este archivo contiene toda la configuracion de los endpoints, la estructura de bodys en los endpoints que son necesarios y 
-algunos endpoint que hay que cambiar para ejecutar de manera mas rapida y sencilla cada uno de los puntos solicitados en la prueba tecnica
+<p>Por ultimo, se debe importar el archivo "<em>Kuantaz Flask_api.postman_collection.json</em>" en la seccion de <em>My Workspace</em> de
+la aplicacion Postman. Ya que este archivo contiene toda la configuracion de los endpoints, la estructura de bodys en los endpoints que son  
+necesarios y algunos endpoint que hay que cambiar para ejecutar de manera mas rapida y sencilla cada uno de los puntos solicitados en la 
+prueba tecnica.
 </p>
